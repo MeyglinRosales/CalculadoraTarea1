@@ -6,30 +6,12 @@ int main()
 {
     int Num1 = 0;
     int Num2 = 0;
-    cout << "Suma" << endl;
-    cout << "Introduce el primer numero: " << endl;
-    cin >> Num1;
-    cout << "Introduce e segundo numero" << endl;
-    cin >> Num2;
-    cout << "La suma es: " << Num1 + Num2 << endl;
     cout << "Resta" << endl;
     cout << "Introduce el primer numero: " << endl;
     cin >> Num1;
     cout << "Introduce e segundo numero" << endl;
     cin >> Num2;
     cout << "La resta es: " << Num1 - Num2 << endl;
-    cout << "Multiplicacion" << endl;
-    cout << "Introduce el primer numero: " << endl;
-    cin >> Num1;
-    cout << "Introduce e segundo numero" << endl;
-    cin >> Num2;
-    cout << "La multiplicacion es: " << Num1 * Num2 << endl;
-    cout << "division" << endl;
-    cout << "Introduce el primer numero: " << endl;
-    cin >> Num1;
-    cout << "Introduce e segundo numero" << endl;
-    cin >> Num2;
-    cout << "La division es: " << Num1 / Num2 << endl;
     return 0;
 
 }
